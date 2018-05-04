@@ -1,0 +1,25 @@
+body { 
+background-color: pink;
+}
+
+h1 {
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+	color:Blue;
+}
+ div { 
+    background-color: red;
+    padding: 0;
+    border: 1px solid black;
+    margin: 0;
+  }
+  p { 
+    background-color: white;
+    padding: 1em;
+    border-width: 10px; 
+    border-style: solid;
+    border-color: blue;
+    margin: 10px !important;
+   }   
+
